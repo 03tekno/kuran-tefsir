@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /opt/kuran-tefsir
+python3 main.py "$@"

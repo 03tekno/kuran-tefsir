@@ -1,0 +1,9 @@
+Package: kuran-tefsir
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: MT
+Depends: python3, python3-requests, python3-gi, libadwaita-1-0, gir1.2-adw-1, fonts-hosny-amiri
+Description: Diyanet Meali ve Tefsiri iceren Kuran uygulamasi.
+ /opt dizinine kurulur ve SQLite veritabanini orada saklar.

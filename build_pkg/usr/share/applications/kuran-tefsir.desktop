@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Kur'an-ı Kerim Tefsir
+Comment=Diyanet Meali ve Tefsiri (Çevrimdışı)
+Exec=kuran-tefsir
+Icon=help-about-symbolic
+Terminal=false
+Type=Application
+Categories=Education;Religion;
